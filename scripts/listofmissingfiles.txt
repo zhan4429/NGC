@@ -1,0 +1,17 @@
+autodock
+chroma
+gamess
+gromacs
+julia
+lammps
+milc
+namd
+nvhpc
+paraview
+pytorch
+qmcpack
+quantum_espresso
+rapidsai
+relion
+tensorflow
+torchani
