@@ -1,7 +1,7 @@
 RCAC NGC Containers Documentation!
 ==============================================
 .. image:: images/nvidia_logo.jpg
-   :width: 700px
+   :width: 400px
    :align: left
 
 This is the user guide for NGC Container modules deployed in Purdue High Performance Computing clusters. More information about our center is avaiable here (https://www.rcac.purdue.edu).  
